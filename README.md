@@ -107,6 +107,6 @@ Keep creating. Keep experimenting. Keep moving forward.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:38BDF8,50:0F52BA,100:020617" width="100%" alt="Blue footer"/>
 
-<sub>Designed with curiosity · Powered by persistence · © Andrey</sub>
+<sub>Designed with curiosity · Powered by persistence · © redroze</sub>
 
 </div>
