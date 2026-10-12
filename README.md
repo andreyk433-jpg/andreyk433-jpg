@@ -48,8 +48,6 @@ I'm Andrey — an aspiring developer exploring the world of programming, digital
 
 ## `03` — SELECTED PROJECTS
 
-## `03` — SELECTED PROJECTS
-
 <div align="center">
 
 <table>
