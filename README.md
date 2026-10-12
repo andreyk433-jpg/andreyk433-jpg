@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F52BA,100:38BDF8&text=ANDREY&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=BUILDING%20MY%20OWN%20DIGITAL%20WORLD&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Andrey profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F52BA,100:38BDF8&text=redroze&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=BUILDING%20MY%20OWN%20DIGITAL%20WORLD&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Andrey profile banner"/>
 
 <a href="https://github.com/andreyk433-jpg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+redroze+%F0%9F%91%8B;Developer+in+progress+%F0%9F%92%BB;Turning+ideas+into+reality+%E2%9C%A8;Learning.+Building.+Improving." alt="Typing SVG"/>
