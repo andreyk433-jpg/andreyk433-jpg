@@ -48,34 +48,52 @@ I'm Andrey — an aspiring developer exploring the world of programming, digital
 
 ## `03` — SELECTED PROJECTS
 
+## `03` — SELECTED PROJECTS
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<a href="https://github.com/andreyk433-jpg/my-first-repo">
+<img src="https://img.shields.io/badge/PROJECT_01-MY_FIRST_REPO-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="My First Repo"/>
+</a>
 
 ### ◈ My First Repository
 
-A space for code, experiments and learning.
+Мой первый репозиторий — место, где я изучаю Git, GitHub и работу с версиями кода.
 
-**Focus:** Git · GitHub · Development
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
-[↗ Open repository](https://github.com/andreyk433-jpg/my-first-repo)
+**STATUS:** `ACTIVE LEARNING`
+
+[↗ VIEW SOURCE CODE](https://github.com/andreyk433-jpg/my-first-repo)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ Future Projects
+<a href="https://github.com/andreyk433-jpg?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECT_02-EXPLORING-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="More projects"/>
+</a>
 
-New ideas, experiments and digital creations.
+### ◈ More Projects
 
-**Status:** Always evolving
+Здесь будут появляться новые эксперименты, учебные проекты и собственные идеи.
 
-[↗ Explore my repositories](https://github.com/andreyk433-jpg?tab=repositories)
+<img src="https://img.shields.io/badge/Ideas-∞-0F52BA?style=flat-square" alt="Ideas"/>
+<img src="https://img.shields.io/badge/Progress-ONGOING-020617?style=flat-square" alt="Progress"/>
+
+**STATUS:** `IN DEVELOPMENT`
+
+[↗ EXPLORE REPOSITORIES](https://github.com/andreyk433-jpg?tab=repositories)
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
 ## `04` — GITHUB METRICS
 
