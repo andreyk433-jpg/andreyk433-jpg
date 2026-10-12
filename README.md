@@ -79,15 +79,22 @@ New ideas, experiments and digital creations.
 
 ## `04` — GITHUB METRICS
 
+## `04` — GITHUB ACTIVITY
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andreyk433-jpg&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/andreyk433-jpg?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/andreyk433-jpg?tab=stars">
+  <img src="https://img.shields.io/badge/INTERESTS-VIEW%20STARS-020617?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View stars"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyk433-jpg&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=andreyk433-jpg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="90%" alt="GitHub statistics"/>
 
 </div>
-
----
 
 ## `05` — MY PHILOSOPHY
 
