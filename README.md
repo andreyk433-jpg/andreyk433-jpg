@@ -93,8 +93,6 @@ I'm Andrey — an aspiring developer exploring the world of programming, digital
 
 </div>
 
-## `04` — GITHUB METRICS
-
 ## `04` — GITHUB ACTIVITY
 
 <div align="center">
