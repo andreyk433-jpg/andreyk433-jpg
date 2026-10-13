@@ -2,14 +2,37 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Andrey+%F0%9F%91%8B;Welcome+to+my+digital+world;Learning.+Building.+Improving.;Turning+ideas+into+code+%E2%9C%A8" alt="Animated introduction"/>
+<p>
+  <code>╔══════════════════════════════════════════════════╗</code>
+</p>
 
-<br/>
+# redroze
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Learning status"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Web development focus"/>
+### `BUILDING MY OWN DIGITAL WORLD`
+
+<p>
+  <code>╚══════════════════════════════════════════════════╝</code>
+</p>
+
+<p>
+  <strong>◈ DEVELOPER IN PROGRESS</strong>
+</p>
+
+<p>
+  <code>[ LEARN ]</code> ━━━ <code>[ BUILD ]</code> ━━━ <code>[ EVOLVE ]</code>
+</p>
+
+<p>
+  Exploring technology. Creating ideas. Building the future.
+</p>
+
+<p>
+  <code>GITHUB: andreyk433-jpg</code>
+</p>
 
 </div>
+
+---
 
 ---
 
