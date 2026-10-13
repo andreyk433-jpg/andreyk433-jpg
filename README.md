@@ -2,16 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0F52BA,100:38BDF8&text=redroze&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=BUILDING%20MY%20OWN%20DIGITAL%20WORLD&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Andrey profile banner"/>
-
-<a href="https://github.com/andreyk433-jpg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+redroze+%F0%9F%91%8B;Developer+in+progress+%F0%9F%92%BB;Turning+ideas+into+reality+%E2%9C%A8;Learning.+Building.+Improving." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Andrey+%F0%9F%91%8B;Welcome+to+my+digital+world;Learning.+Building.+Improving.;Turning+ideas+into+code+%E2%9C%A8" alt="Animated introduction"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/andreyk433-jpg)
-![Profile Views](https://komarev.com/ghpvc/?username=andreyk433-jpg&style=for-the-badge&color=0F52BA&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Learning status"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Web development focus"/>
 
 </div>
 
@@ -48,34 +44,46 @@ I'm Andrey — an aspiring developer exploring the world of programming, digital
 
 ## `03` — SELECTED PROJECTS
 
-<div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/andreyk433-jpg/my-first-repo">
-<img src="https://img.shields.io/badge/PROJECT_01-MY_FIRST_REPO-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="My First Repo"/>
-</a>
+<div align="left">
+<img src="https://img.shields.io/badge/01-CORE_PROJECT-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Core project"/>
 
-### ◈ My First Repository
+### My First Repository
 
-Мой первый репозиторий — место, где я изучаю Git, GitHub и работу с версиями кода.
+Мой первый репозиторий — практика работы с Git, GitHub и историей изменений.
 
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GIT-VERSION_CONTROL-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
-**STATUS:** `ACTIVE LEARNING`
+**`STATUS`** · Learning
 
-[↗ VIEW SOURCE CODE](https://github.com/andreyk433-jpg/my-first-repo)
+[Открыть проект →](https://github.com/andreyk433-jpg/my-first-repo)
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/andreyk433-jpg?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECT_02-EXPLORING-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="More projects"/>
-</a>
+<div align="left">
+<img src="https://img.shields.io/badge/02-NEXT_CHAPTER-38BDF8?style=for-the-badge&logo=rocket&logoColor=black" alt="Next chapter"/>
 
+### Future Projects
+
+Новые идеи, эксперименты и собственные разработки будут появляться здесь.
+
+<img src="https://img.shields.io/badge/IDEAS-UNLIMITED-0F52BA?style=flat-square" alt="Ideas"/>
+<img src="https://img.shields.io/badge/BUILD-IN_PROGRESS-020617?style=flat-square" alt="In progress"/>
+
+**`STATUS`** · In progress
+
+[Все репозитории →](https://github.com/andreyk433-jpg?tab=repositories)
+</div>
+
+</td>
+</tr>
+</table>
 ### ◈ More Projects
 
 Здесь будут появляться новые эксперименты, учебные проекты и собственные идеи.
@@ -114,20 +122,20 @@ I'm Andrey — an aspiring developer exploring the world of programming, digital
 
 <div align="center">
 
-### `DREAM → BUILD → LEARN → REPEAT`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:020617" width="100%" alt="Blue separator"/>
 
-*Every expert was once a beginner.*
+<br/>
 
-Keep creating. Keep experimenting. Keep moving forward.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DREAM+%E2%86%92+BUILD+%E2%86%92+LEARN+%E2%86%92+REPEAT;Every+expert+was+once+a+beginner.;Keep+creating.+Keep+improving." alt="Closing message"/>
+
+<br/>
 
 <a href="https://github.com/andreyk433-jpg?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0F52BA?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:38BDF8,50:0F52BA,100:020617" width="100%" alt="Blue footer"/>
-
-<sub>Designed with curiosity · Powered by persistence · © redroze</sub>
+<sub>Designed with curiosity · Built by Andrey · Always improving</sub>
 
 </div>
