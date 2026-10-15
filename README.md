@@ -1,36 +1,21 @@
-<!-- NEON BLUE DEVELOPER PROFILE -->
-
 <div align="center">
 
-<p>
-  <code>╔══════════════════════════════════════════════════╗</code>
-</p>
+### <code>root@andrey:~$ whoami</code>
 
-# redroze
+# `redroze_`
 
-### `BUILDING MY OWN DIGITAL WORLD`
+**DEVELOPER IN PROGRESS**
 
-<p>
-  <code>╚══════════════════════════════════════════════════╝</code>
-</p>
+<code>LEARN</code> → <code>BUILD</code> → <code>EXPERIMENT</code> → <code>REPEAT</code>
 
-<p>
-  <strong>◈ DEVELOPER IN PROGRESS</strong>
-</p>
+*Turning ideas into code, one commit at a time.*
 
-<p>
-  <code>[ LEARN ]</code> ━━━ <code>[ BUILD ]</code> ━━━ <code>[ EVOLVE ]</code>
-</p>
-
-<p>
-  Exploring technology. Creating ideas. Building the future.
-</p>
-
-<p>
-  <code>GITHUB: andreyk433-jpg</code>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=500&lines=%24+Initializing+developer+profile...;%24+Loading+new+ideas...;%24+Building+something+cool...;%24+Status%3A+always+learning_" alt="Animated terminal text"/>
 
 </div>
+
+---
+
 
 ---
 
